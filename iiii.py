@@ -1,2 +1,1 @@
 print("salam")
-print("dodol")
