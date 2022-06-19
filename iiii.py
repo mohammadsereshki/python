@@ -1,1 +1,1 @@
-print("salam")
+print(4*"salam")
