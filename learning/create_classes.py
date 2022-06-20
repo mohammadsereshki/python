@@ -1,9 +1,8 @@
+from typing_extensions import Self
+
+
 class Car:
-    """
-    DocString descrining the class
-    """
-    def __init__(self):
-        """
-        Describing method
-        """
-        pass
+
+    def __init__(self, engine, tires):
+        self.engine = engine
+        self.tires = tires
